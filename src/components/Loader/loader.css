@@ -1,0 +1,36 @@
+.J{
+    animation: J 3s ease;
+}
+@keyframes J {
+    0%{
+        height: 20%;
+    }
+    100%{
+        height: 100%;
+    }
+}
+.M{
+    position: relative;
+    animation: M 3s ease;
+  
+}
+@keyframes M {
+    0%{
+        top:-400px
+    }
+    100%{
+        top:0
+    }
+}
+.box{
+    animation: box 2s linear 3s forwards;
+    overflow: hidden;
+}
+@keyframes box {
+    0%{
+        width: 100vw !important;
+    }
+    100%{
+        width: 0;
+    }
+}

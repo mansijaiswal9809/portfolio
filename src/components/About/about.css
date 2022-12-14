@@ -1,0 +1,12 @@
+
+.imageDiv{
+    overflow: hidden;
+    position: relative;
+    right: 200px;
+    height: 400px;
+    width: 155%;
+}
+.imageDiv img{
+    box-shadow: #fa5a5a 0px 5px 15px;
+
+}

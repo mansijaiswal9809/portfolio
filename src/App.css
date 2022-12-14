@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  background-image: url("https://i.pinimg.com/originals/28/40/e4/2840e49a143f8528622500473c3b18e8.jpg");
+  width:100vw;
+  height: 100vh;
+  /* overflow: hidden; */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  /* z-index: -99; */
 }
 
 .App-logo {
